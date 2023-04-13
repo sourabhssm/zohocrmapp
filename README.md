@@ -1,1 +1,1 @@
-# zohocrmapp, this project for learning purpose only i uploaded here
+# zohocrmapp, this project is for learning purpose only
